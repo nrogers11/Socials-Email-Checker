@@ -1,4 +1,3 @@
-import os
 import asyncio
 
 from src.tools import Tools
